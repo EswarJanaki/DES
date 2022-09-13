@@ -1,4 +1,6 @@
 #include<bits/stdc++.h>
+//included comment for better understanding //
+
 using namespace std;
 int main(){
     int n;
